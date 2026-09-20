@@ -4,6 +4,7 @@ subtitle: "A canonical Layer 2 dataset for defining and evaluating functional, e
 version: "1.0"
 date: "2026-09-20"
 status: "Canonical inclusive-outcome framework"
+canonical_layer: "Layer 2"
 authority_type: "Organisational design and research framework"
 legal_status: "Not legislation, a technical standard, a conformity statement, or legal advice"
 repository: "https://github.com/Double-FW/Inclusive_and_Effective_Design"
@@ -21,6 +22,7 @@ ai_ingestion_guidance:
   - "Treat WCAG and other applicable standards as strong baselines, while recognising that they do not measure every service or experience outcome."
   - "Do not approve a legal exception, baseline departure, alternative solution, conformity conclusion, or public claim."
   - "When evidence is missing or conflicting, return 'insufficient evidence' and identify the next decision-relevant evidence."
+  - "Never convert a Layer 2 outcome finding automatically into a Layer 1 scope outcome or Layer 3 legal-requirement conclusion."
 ---
 
 # Inclusive Digital Service Outcome Dataset
@@ -502,6 +504,21 @@ Use the following vocabulary for each selected outcome:
 
 Do not use a numerical roll-up to hide a `not supported` outcome. A dashboard may summarise status, but the underlying finding, affected population, consequence, and uncertainty must remain available.
 
+### Relationship to legal-requirement conclusions
+
+Layer 2 and Layer 3 use deliberately different vocabularies because they answer different questions.
+
+| Layer 2 finding | What it means for Layer 3 |
+|---|---|
+| `supported` | Relevant evidence input only. It must not be converted automatically into `supported as met`. |
+| `partly supported` | Split the affected scope and investigate. It may support different legal conclusions for different parts, but does not determine them. |
+| `not supported` | Investigate affected legal requirements and standards. It does not by itself identify which legal requirement is `not met`. |
+| `insufficient evidence` | May contribute to `cannot conclude` where the missing outcome evidence is material to the legal requirement. A human reviewer must decide. |
+| `not evaluated` | Does not mean `not assessed` for every related legal requirement; check the complete Layer 3 evidence set. |
+| `not relevant with rationale` | An inclusive-outcome selection decision only. It must never be converted into `not applicable by approved scope decision`; legal non-applicability requires Layer 1 approval. |
+
+No automated crosswalk may change an outcome finding into a legal conclusion. Layer 3 must retain the finding ID, assess its relevance to the exact requirement, and record the human reasoning.
+
 ## Resolving contradictions
 
 Contradictory evidence is information, not a data-cleaning problem. When results disagree:
@@ -636,7 +653,8 @@ confidence:
   rationale: ""
 does_not_establish: []
 actions_and_owners: []
-layer_3_record_links: []
+related_layer_3_evidence_ids: []
+related_layer_3_requirement_conclusion_ids: []
 review_triggers: []
 next_review_date: ""
 research_or_evaluation_owner: ""
