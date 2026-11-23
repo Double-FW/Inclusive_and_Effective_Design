@@ -29,6 +29,18 @@ Detailed media and multimodal guidance now has a canonical home in the specialis
 
 Use the canonical destination for current retrieval and updates. The links above separate general multimodal design, semantic structure, media interfaces, and connected product control so that guidance is not maintained in competing copies.
 
+## Organisational guidance and migrated source material
+
+Several broad organisational guides in this repository overlapped with existing programme, policy, research, and specialist guidance. Their source paths now route people and agents to the relevant owner; they are not separate authorities to ingest wholesale.
+
+| Retained source path | Use the canonical destination for |
+|---|---|
+| `UX_Design_Organisational_Guidance.md` and `Integrated_Accessibility_and_Inclusion_ Organisational Implementation Guidance.md` | [Product-design and research practice](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md); [programme stages and delivery](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/programme-cycle.md); [system assurance](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/design-and-brand-systems.md); and relevant [specialist repositories](https://github.com/Double-FW). |
+| `Inclusive_Design_Leadership.md` and `Inclusive_Design_Management.md` | [Programme stages](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/programme-cycle.md), [human and AI responsibilities](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/human-ai-responsibilities.md), [decision and evidence records](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/templates/decision-and-evidence.md), and the [policy RACI and steering-group guide](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy/blob/main/Accessibility_and_Inclusion_Policy_RACI_and_Steering_Group_Guide.md). |
+| `Inclusive_Design_Strategy.md` | [Product-design practice](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md); [brand values and inclusive experience](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/Brand_Values_and_Inclusive_Experience_Research.md); [customer value and segmentation](https://github.com/Double-FW/Accessibility_Demographics); and [co-design source material](Codesign.md). |
+
+Use [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing) for testing methods and evidence, and the relevant cognitive, multimodal, media, typography, content, and demographic repository for detailed guidance. Follow their source boundaries and evidence rules. The [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) remains canonical for inclusive service outcomes; it is not a legal-conformity determination.
+
 ## EAA relationship
 
 This repository does not determine whether the European Accessibility Act applies or approve legal conformity.
