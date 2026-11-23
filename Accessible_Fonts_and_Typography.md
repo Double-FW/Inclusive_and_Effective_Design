@@ -11,8 +11,7 @@ and usable across a wide range of human abilities and contexts.
 Inclusive typography recognises that people read differently due to
 vision, cognition, language processing, fatigue, neurological variation,
 device constraints, lighting conditions, and situational factors.
-Designing for typographic accessibility therefore improves comprehension
-speed, reduces cognitive effort, and increases confidence for all users.
+Typographic choices can affect comprehension, effort and confidence. Test the effect for the language, type, task, device and readers in scope rather than assuming the same benefit for all users.
 
 ### Why this matters for disabled customers and brand experience
 
@@ -62,7 +61,7 @@ An inclusive typeface for body text should:
 
 Humanist and open-form typefaces often perform well because they
 emphasise character differentiation and natural shapes, though no single
-category works for everyone.
+type category works for every reader.
 
 ### Why this matters
 
@@ -104,8 +103,7 @@ Body text should be large enough to read comfortably without adjustment
 for most users. A commonly effective baseline is around the equivalent
 of 16px, though perceived size varies by typeface.
 
-Supplementary information may be smaller, but essential content should
-never rely on reduced sizes.
+Supplementary information may be smaller, but essential content must remain usable when people increase text size or zoom. Do not use reduced type size as the only way to fit content.
 
 ### Why this matters
 
@@ -301,9 +299,7 @@ include underlines, weight changes, or indicators on interaction states.
 
 ### Why this matters
 
-Colour perception varies widely across users. Multiple visual cues
-ensure everyone can identify interactive elements confidently. Clear
-affordances reduce frustration and increase successful task completion.
+Colour perception varies widely across users. Multiple visual cues can make interactive text easier to identify. Test whether the cues are clear to the people and contexts in scope; do not infer confidence or successful task completion from the visual treatment alone.
 
 ------------------------------------------------------------------------
 
@@ -460,5 +456,4 @@ When generating advice, a GPT using this knowledge base should:
 -   Adaptability over control\
 -   Inclusion over assumption
 
-Inclusive typography improves experiences for everyone while
-particularly benefiting disabled users.
+Inclusive typography can improve readability and access for many readers, including disabled people. Evaluate actual outcomes rather than assuming a universal effect.
