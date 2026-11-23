@@ -18,7 +18,7 @@ The dataset applies to ordinary and specialist digital services, including tradi
 
 ## Specialist repositories and migrated guidance
 
-Detailed media, multimodal and cognitive guidance now has a canonical home in the specialist repositories below. The original paths are retained as migration notices so existing links continue to lead people and agents to the right material.
+Detailed media, multimodal, cognitive and age-related guidance now has a canonical home in the specialist repositories below. The original paths are retained as migration notices so existing links continue to lead people and agents to the right material.
 
 | Existing source path | Canonical guidance |
 |---|---|
@@ -27,8 +27,9 @@ Detailed media, multimodal and cognitive guidance now has a canonical home in th
 | `Multimodal_UX_Design.md` | [Inclusive Multimodal UX Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Design.md), its [maturity model](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_Design_Maturity_Model.md), and [agent prompt guide](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Agent_Prompt_Guide.md) |
 | `Structural Accessibility and Semantic Design for Multi-Modal Experiences.md` | [Structural Accessibility and Semantic Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Structural%20Accessibility%20and%20Semantic%20Design%20for%20Multi-Modal%20Experiences.md) |
 | `Cognitive Design Principles.md` | [10 Cognitive Design Principles](https://github.com/Double-FW/Cognitive-UX-Design/blob/main/Cognitive%20Design%20Principles.md), with CP-01–CP-10, current evidence status and QA relationships |
+| `Age_Related_Inclusion_Data.md` | [Age-related demographic statistics and estimation methods](https://github.com/Double-FW/Accessibility_Demographics/blob/main/Accessibility_Demographic_Statistics_and_Estimation_Methods.md#6-hearing-sight-and-ageing), [ageing and changing customer needs](https://github.com/Double-FW/Accessibility_Demographics/blob/main/research/ageing-and-changing-needs.md), and [ageing and customer retention](https://github.com/Double-FW/Accessibility_Demographics/blob/main/quick-guides/03-ageing-and-customer-retention.md) |
 
-Use the canonical destination for current retrieval and updates. The links above separate general multimodal design, semantic structure, media interfaces, and connected product control so that guidance is not maintained in competing copies.
+Use the canonical destination for current retrieval and updates. The links above separate general multimodal design, semantic structure, media interfaces, connected product control, and age-related evidence so guidance is not maintained in competing copies. Age-specific figures must retain their source population, definition, denominator and evidence status; do not treat different measures as directly comparable.
 
 ## Organisational guidance and migrated source material
 
@@ -74,7 +75,7 @@ An AI or autonomous system must:
 7. avoid converting a Layer 2 finding automatically into an EAA legal conclusion;
 8. avoid using satisfaction to conceal exclusion, failure, excessive effort or lack of choice;
 9. route legal applicability and claim decisions to Layers 1 and 3; and
-10. use the canonical specialist repository in the table above for migrated media, multimodal, and semantic-structure guidance rather than retrieving the retained migration notices as substantive content.
+10. use the canonical specialist repository in the table above for migrated media, multimodal, semantic-structure and age-related guidance rather than retrieving retained migration notices as substantive content.
 
 ## Evidence and flexibility
 
