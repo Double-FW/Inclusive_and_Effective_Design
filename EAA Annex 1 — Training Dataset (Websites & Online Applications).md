@@ -28,9 +28,9 @@ That combination could cause an assessor or AI system to present every outcome a
 
 ## Current canonical route
 
-1. Use the [EAA Scope and Applicability Gate](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Scope_and_Applicability_Gate.md) to determine legal scope, the applicable national law, Annex I route and any separately recorded legal limitations.
+1. Use the [EAA Scope and Applicability Gate](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) to determine legal scope, the applicable national law, Annex I route and any separately recorded legal limitations.
 2. Use the [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) to define functional, task, equitable and experiential outcomes.
-3. Use the [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Evidence_and_Conformity_Record_Model.md) to reach controlled requirement conclusions and govern claims.
+3. Use the [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md) to reach controlled requirement conclusions and govern claims.
 4. Use the [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md) for requirements, tests, executions, issues, exceptions, baseline departures and release evidence.
 
 ## Machine rule
