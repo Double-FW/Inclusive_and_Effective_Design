@@ -23,6 +23,14 @@ Keep these conclusions separate:
 
 A positive experience finding does not erase a standards failure. A standards pass does not by itself establish task success, equivalence, satisfaction or legal conformity. Retain the population, task, context, technology, release, evidence and limitations relevant to each finding.
 
+## Terms used here
+
+- **EAA:** European Accessibility Act.
+- **WCAG:** Web Content Accessibility Guidelines. **POUR** names its four principles: Perceivable, Operable, Understandable and Robust.
+- **IDSO:** the Inclusive Digital Service Outcome dataset and its stable outcome identifiers, such as `IDSO-01`.
+
+For other terms, consult the linked Terminology and Principles reference and check each entry's current status and scope.
+
 ## Content map
 
 | File | Status and use |
