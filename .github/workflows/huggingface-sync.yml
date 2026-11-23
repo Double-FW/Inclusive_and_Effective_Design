@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
-      HF_DATASET_ID: ${{ vars.HF_DATASET_ID || 'GarethFW/Inclusive_and_Effective_Design' }}
+      HF_DATASET_ID: GarethFW/Inclusive_and_Effective_Design
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
