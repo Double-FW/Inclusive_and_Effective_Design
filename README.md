@@ -41,7 +41,7 @@ A positive experience finding does not erase a standards failure. A standards pa
 | [Inclusive Design Thinking](Inclusive_Design_Thinking.md) | Retained path routing to Inclusive Design Practice because the former documents substantially duplicated one another. |
 | [Leadership](Inclusive_Design_Leadership.md), [management](Inclusive_Design_Management.md) | Retained paths routing to programme, role, policy and decision guidance. |
 | [UX organisational guidance](UX_Design_Organisational_Guidance.md), [integrated organisational implementation](Integrated_Accessibility_and_Inclusion_%20Organisational%20Implementation%20Guidance.md), [inclusive design strategy](Inclusive_Design_Strategy.md) | Retained paths routing to the owning product-design, programme, policy, brand or research source. |
-| [Superseded EAA Annex I dataset](EAA%20Annex%201%20%E2%80%94%20Training%20Dataset%20(Websites%20%26%20Online%20Applications).md) | Retained path explicitly marked superseded. Do not use its former content for current retrieval or legal requirement extraction. |
+| [Superseded EAA Annex I dataset](EAA%20Annex%201%20%E2%80%94%20Training%20Dataset%20%28Websites%20%26%20Online%20Applications%29.md) | Retained path explicitly marked superseded. Do not use its former content for current retrieval or legal requirement extraction. |
 
 ## Specialist repositories and migrated guidance
 
