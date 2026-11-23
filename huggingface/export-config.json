@@ -2,7 +2,34 @@
   "source_repository": "Double-FW/Inclusive_and_Effective_Design",
   "destination_dataset": "GarethFW/Inclusive_and_Effective_Design",
   "dataset_version": "1.0.0",
-  "document_files": ["AGENTS.md", "README.md", "Inclusive_Digital_Service_Outcome_Dataset.md", "Accessible_Fonts_and_Typography.md", "E-Commerce Customer Lifecycle.md", "Inclusive_Design_Practice.md", "Understanding Forms as Cognitive Journeys.md", "The WCAG POUR principles reframed through emotional outcomes for branding systems.md"],
-  "chunk_files": ["Inclusive_Digital_Service_Outcome_Dataset.md", "Accessible_Fonts_and_Typography.md", "E-Commerce Customer Lifecycle.md", "Inclusive_Design_Practice.md", "Understanding Forms as Cognitive Journeys.md", "The WCAG POUR principles reframed through emotional outcomes for branding systems.md"],
-  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af"
+  "document_files": [
+    "AGENTS.md",
+    "README.md",
+    "Inclusive_Digital_Service_Outcome_Dataset.md",
+    "Accessible_Fonts_and_Typography.md",
+    "E-Commerce Customer Lifecycle.md",
+    "Inclusive_Design_Practice.md",
+    "Understanding Forms as Cognitive Journeys.md",
+    "The WCAG POUR principles reframed through emotional outcomes for branding systems.md"
+  ],
+  "chunk_files": [
+    "Inclusive_Digital_Service_Outcome_Dataset.md",
+    "Accessible_Fonts_and_Typography.md",
+    "E-Commerce Customer Lifecycle.md",
+    "Inclusive_Design_Practice.md",
+    "Understanding Forms as Cognitive Journeys.md",
+    "The WCAG POUR principles reframed through emotional outcomes for branding systems.md"
+  ],
+  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af",
+  "source_files": [
+    "AGENTS.md",
+    "README.md",
+    "Inclusive_Digital_Service_Outcome_Dataset.md",
+    "Accessible_Fonts_and_Typography.md",
+    "E-Commerce Customer Lifecycle.md",
+    "Inclusive_Design_Practice.md",
+    "Understanding Forms as Cognitive Journeys.md",
+    "The WCAG POUR principles reframed through emotional outcomes for branding systems.md",
+    "LICENSE"
+  ]
 }
