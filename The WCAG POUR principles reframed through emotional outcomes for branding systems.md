@@ -1,66 +1,47 @@
-# The WCAG POUR principles reframed through emotional outcomes for branding systems
+# Brand experience and emotional outcome lenses for inclusive design
 
----
+## Purpose and status
 
-## **Feeling** — reframing the WCAG POUR principles for Brand Management - these are universal
+This document offers a Double-FW research lens for examining whether a service experience supports the expectations expressed by a brand. It complements accessibility standards and inclusive-outcome evaluation. It does not rename or replace the WCAG POUR principles, add a fifth WCAG principle, establish a legal duty, or guarantee what a person will feel.
 
-**Feeling Seen (was Perceivable)**
-- Functional: Content exists in alternative formats.
-- Emotional: No one scans the room and realises they're missing half the conversation. Users experience belonging, the world feels open to them, not gated behind a format they can't access.
+The five labels below are questions for research and design review. They are not claims about all customers or substitutes for observed task outcomes, participant evidence, security review or conformance evaluation. The corresponding terminology entries and their current approval status are in [Double-FW Terminology and Principles](https://github.com/Double-FW/Terminology-and-Principles); check [Start Here](https://github.com/Double-FW/Terminology-and-Principles/blob/main/START_HERE.md) before treating a proposed term as adopted.
 
-**Feeling Capable (was Operable)**
-- Functional: All functionality is available via keyboard.
-- Emotional: Users experience agency. They don't hit invisible walls or feel like the system is working against them. Every action they intend produces a result. The interface whispers: you can do this.
+## Research lenses
 
-**Feeling Confident (was Understandable)**
-- Functional: Content is readable and predictable.
-- Emotional: Users experience clarity. They know where they are, what happened, and what to do next. Navigation doesn't provoke doubt. Errors don't trigger shame. The world makes sense, even when it doesn't.
+| Lens | Related design question | Possible research questions |
+|---|---|---|
+| Feeling Seen | Perceivable information and relevant content formats | Can participants access the information they need in their chosen mode? Do they report that the experience recognises their needs and identity? |
+| Feeling Capable | Operable functions, control and agency | Can participants perform intended actions with the input methods they use? Where do they encounter barriers or unwanted dependency? |
+| Feeling Confident | Understandable information, orientation and feedback | Can participants explain where they are, what happened and what to do next? How does their confidence compare with task accuracy? |
+| Feeling Safe | Robust access and reliable interaction across supported technologies and changing circumstances | Does the service behave reliably in the tested scope? What evidence supports security, privacy and trust separately? |
+| Feeling Valued | Respect, dignity and intentional consideration in the service experience | Do participants report respect, choice and meaningful consideration? Are there differences in access, effort or service quality between groups? |
 
-**Feeling Safe (was Robust)**
-- Functional: Content works across all assistive technologies.
-- Emotional: Users experience trust. They know the system won't betray them when their tool of choice changes, when their body changes, or when their circumstances shift. The experience holds. I can rely on this.
+Feeling Valued is an experience lens associated with satisfaction and dignity; it is not an additional WCAG principle. Keep the standards' defined principles and success criteria intact.
 
----
+## Applying the lenses
 
-**Four principles. Four feelings. Same outcomes, different framing.**
+For each lens:
 
----
+1. state the service, task, population and context being considered;
+2. identify the relevant accessibility requirement and functional outcome separately;
+3. ask open questions and observe the task rather than predicting an emotion;
+4. record participant evidence, task results, access approach and limitations separately;
+5. investigate conflicting results, including confidence that does not match accuracy;
+6. use the findings to improve the experience and test the change.
 
-## What about an additional fifth emotional principle?
+Use the lenses where they help explore a material brand or service question. Do not use them as a checklist that every person must satisfy, or combine ratings into a score that hides exclusion or a failed requirement.
 
+## Brand promise and evidence
 
-**Feeling Valued (was Satisfactory)**
-- Functional: The experience meets needs without diminishing dignity or identity.
-- Emotional: Users feel respected, included, and intentionally considered, not accommodated as an afterthought. The experience says: you belong here, and this was made with people like you in mind.
+Brand messages can set expectations about clarity, independence, care or reliability. Evaluate those expectations against actual service behaviour and relevant evidence. A marketing claim does not show that the experience delivers it.
 
-Why it works:
-- Strong brand and inclusion language
-- Connects directly to customer satisfaction and loyalty
-- Moves beyond usability into emotional equity
-- Aligns well with inclusive service design
+WCAG provides testable criteria for conformance within a defined scope. A WCAG result does not by itself prove a full brand promise, task success, security, satisfaction or legal conformity. Record each conclusion within the evidence and authority that support it.
 
+Examples of questions for a design review:
 
+- Does a promise of independence match the control and support options people can actually use?
+- Does a promise of trust align with reliable operation, privacy and security evidence?
+- Are errors and support interactions respectful, understandable and recoverable?
+- Do accessible routes preserve meaningful choice, service quality and user control?
 
-## The Brand Connection
-
-Marketing tells people how you want them to feel about your brand. Accessibility either delivers on that promise or actively undermines it.
-
-Brand is the contract. WCAG is the proof.
-
-- You campaign feeling valued. A blind user hits a broken site and gets told: no you don't. That cognitive dissonance doesn't just lose one customer, it erodes trust in everyone.
-
-- You position empowering independence. A user who can't tab through your checkout experiences the opposite. The brand promise reads as dishonest, not aspirational.
-
-- You say we're for everyone. If *"everyone"* stops at the first screen reader, the message reads as marketing theatre. Not values.
-
-- You invest in trust and reliability. Every unsupported assistive tech encounter is a broken promise. Users don't think *"hmm, incomplete feature"*, they think, *"this brand doesn't hold up."*
-
----
-
-**The brutal truth:** you can run the most emotionally resonant campaign in the world and a single unfocused link will do more to damage your brand perception than a thousand impressions won back. Marketing sets expectations. Accessibility meets them and builds trust, Inaccessibility breaks them.
-
-For marketers, the reframing matters because emotional outcomes beat compliance checkboxes. Accessibility isn't about passing a test. It's about every customer, regardless of how they interact with the world, walking or wheeling away feeling exactly what your brand says it makes them feel.
-
-Seen. Capable. Confident. Safe. Valued.
-
-That's not a legal requirement. That's brand integrity.
+These are research prompts, not findings. Test assumptions with the people and contexts relevant to the service.
