@@ -8,8 +8,8 @@ legal_status: "Historical repository redirect; not current guidance"
 ai_ingestion_guidance:
   - "Do not retrieve the former contents as an active EAA requirement dataset."
   - "Retrieve Inclusive_Digital_Service_Outcome_Dataset.md for inclusive functional and experiential outcomes."
-  - "Retrieve the EAA Scope and Applicability Gate before identifying EAA legal requirements."
-  - "Retrieve the EAA Evidence and Conformity Record Model before reaching a requirement conclusion or making a claim."
+  - "Retrieve the current EAA scope and applicability guidance before identifying EAA legal requirements."
+  - "Retrieve current EAA evidence, conformity and claims guidance before reaching a requirement conclusion or making a claim."
 ---
 
 # Superseded: EAA Annex 1 Training Dataset
@@ -28,9 +28,9 @@ That combination could cause an assessor or AI system to present every outcome a
 
 ## Current canonical route
 
-1. Use the [EAA Scope and Applicability Gate](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Scope_and_Applicability_Gate.md) to determine legal scope, the applicable national law, Annex I route and any separately recorded legal limitations.
+1. Use the [EAA scope and applicability guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) to determine legal scope, the applicable national law, Annex I route and any separately recorded legal limitations.
 2. Use the [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) to define functional, task, equitable and experiential outcomes.
-3. Use the [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Evidence_and_Conformity_Record_Model.md) to reach controlled requirement conclusions and govern claims.
+3. Use the [EAA evidence, conformity and claims guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md) to reach controlled requirement conclusions and govern claims.
 4. Use the [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md) for requirements, tests, executions, issues, exceptions, baseline departures and release evidence.
 
 ## Machine rule

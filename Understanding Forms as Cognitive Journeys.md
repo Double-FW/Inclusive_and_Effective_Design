@@ -9,8 +9,7 @@ particularly for people with sensory, cognitive, mobility, or language
 differences. Poorly designed forms can prevent users from completing
 essential tasks such as registration, purchasing, or communication,
 which directly impacts both user trust and organisational outcomes.
-Accessible design reduces friction, increases confidence, and improves
-completion rates for all users, not only those with disabilities.
+Accessible form design can reduce avoidable friction. Measure task completion, effort and confidence with the people and contexts relevant to the service; do not assume the effect is identical for everyone.
 
 ## Design Approach
 
@@ -289,10 +288,14 @@ otherwise, creating accessibility barriers.
 
 ## Design Approach
 
-Design for multiple sensory channels: - Semantic descriptions - Reading
-order - Interaction states - Alternative representations
+Design for multiple sensory channels, including:
 
-## Universal Prompt Pattern
+- semantic descriptions;
+- meaningful reading order;
+- announced interaction states; and
+- alternative representations where they preserve the task's purpose.
+
+## Reusable prompt pattern
 
 1.  Purpose
 2.  User journey
@@ -309,12 +312,14 @@ order - Interaction states - Alternative representations
 
 ## Explainer
 
-Accessibility is an indicator of design maturity. Inclusive design
-improves clarity, trust, and success rates for everyone.
+Accessibility is one part of design quality. Inclusive design can support clarity and trust; measure task outcomes in context rather than assuming success rates improve for everyone.
 
 ## Design Approach
 
-Adopt an inclusion‑first mindset: - Assume diversity of ability - Design
-for clarity - Validate against user needs
+Adopt an inclusion-first mindset:
+
+- consider varied abilities and access approaches;
+- design for clarity; and
+- validate with relevant users and evidence.
 
 ------------------------------------------------------------------------

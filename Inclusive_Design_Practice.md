@@ -282,14 +282,14 @@ A complete experience is one where every element has been deliberately considere
 
 ---
 
-## Defining “Everyone” in Inclusive Design
+## Defining the intended audience and context
 
 ### Instruction  
-Explain the importance of defining “everyone.”
+Explain why teams should define the intended audience, tasks, contexts and known evidence gaps.
 
 ### Explanation  
 
-Defining “everyone” ensures that design decisions account for all potential users, including those who interact through non-visual means such as screen readers or braille displays.
+Defining an intended audience, tasks and contexts helps teams consider varied access needs, including non-visual interaction such as screen readers or braille displays. It does not establish that every person's needs have been met.
 
 Practitioners must:
 - Identify the full range of users they aim to serve  
@@ -300,14 +300,14 @@ This prevents exclusion from being designed into the product.
 
 ---
 
-## Designing for Everyone
+## Designing for a wide range of people
 
 ### Instruction  
-Describe how designing for everyone improves design work.
+Describe how considering a stated range of people and contexts improves design decisions.
 
 ### Explanation  
 
-Designing for everyone improves the quality of assumptions and decisions made during the design process. By explicitly defining both the intended experience and the audience, teams set clear standards for their work.
+Considering a stated range of people and contexts can improve assumptions and design decisions. Define the intended experience, who has been considered, what evidence supports the decisions, and what remains untested.
 
 This approach:
 - Encourages better questioning  
@@ -339,7 +339,7 @@ Compare visual-only design with inclusive design.
 
 ### Explanation  
 
-Designing only for visual experience leaves other interaction modes unsupported, resulting in exclusion. Inclusive design ensures that all users, including those using assistive technologies, receive a complete and intentional experience.
+Designing only for visual experience can leave other interaction modes unsupported. Inclusive design should consider relevant access approaches, including assistive technologies, and test whether people can obtain the intended outcome. No single design can be assumed to work for every person or context.
 
 This involves:
 - Designing for auditory and tactile interactions  
@@ -348,16 +348,16 @@ This involves:
 
 ---
 
-## Core Principle of Inclusive Design
+## Core principle: design for inclusion with evidence
 
 ### Instruction  
 Summarise the key principle for inclusive design.
 
 ### Explanation  
 
-The core principle is to provide a designed experience for everyone. This means applying intentional design thinking to both visual and non-visual aspects of a product, ensuring that all users can access and engage with the experience.
+The core principle is to design deliberately for a stated range of people, tasks and contexts. Consider visual and non-visual interaction, test with people who have relevant access needs, and make remaining limitations visible. Do not claim universal access without evidence that supports the claim.
 
-By defining what constitutes a designed experience and identifying who is included in “everyone,” organisations establish a strong foundation for inclusive, high-quality design.
+By defining the intended experience, the people and contexts considered, and the evidence still needed, organisations establish a clearer foundation for inclusive design.
 
 ---
 

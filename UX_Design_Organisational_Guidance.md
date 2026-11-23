@@ -1,15 +1,13 @@
-# Organisational accessibility guidance routed
+# UX design organisational guidance — route
 
-**Status:** This former overview is retained as a route for existing links. Use the relevant canonical source below for current guidance and updates.
+**Status:** This former overview is retained for existing links. It mixed design practice, research, programme management, policy and specialist topics. Use the owner of each decision for current guidance.
 
-| Need | Canonical source |
+| UX design need | Canonical source |
 |---|---|
-| Product-design reasoning, research practice, user experience and evidence limits | [Inclusive Product Design Principles: UX Practice](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md) and [AGENTS.md](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/AGENTS.md) |
-| Programme ownership, strategy, delivery, evaluation and improvement | [Accessibility Programme Runbooks: shared programme cycle](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/programme-cycle.md) |
-| Design-system, branding-system and QA integration | [Accessibility Programme Runbooks: systems and assurance](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/design-and-brand-systems.md) |
-| Policy development, accountability and steering | [Inclusion and Accessibility Policy](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy) |
-| Testing methods, test evidence, prioritisation and reporting | [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing) |
-| Detailed cognitive, multimodal, media, typography, content or demographic questions | Use the relevant specialist repository listed by [Double-FW](https://github.com/Double-FW). |
+| UX practice, inclusive product principles, research and co-design | [Inclusive Product Design Principles](https://github.com/Double-FW/Inclusive-Product-Design-Principles) |
+| Programme lifecycle, accountable roles and improvement | [Accessibility Programme Runbooks](https://github.com/Double-FW/Accessibility_Programme_Runbooks) |
+| Research and service outcomes | [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) |
+| Requirements, tests and assurance evidence | [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing) |
+| Detailed cognitive, multimodal, media, typography or demographic questions | Choose the relevant specialist repository in the [repository directory](https://github.com/Double-FW). |
 
-The former overview combined recommendations with different owners. Do not treat it as one comprehensive checklist or as proof of accessibility, user outcomes, legal applicability or compliance. For detailed guidance, use [Cognitive UX Design](https://github.com/Double-FW/Cognitive-UX-Design), [Inclusive Multimodal UX](https://github.com/Double-FW/Inclusive-Multimodal-UX), [Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces), [Accessible Typography](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems), [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing), and [Accessibility Demographics](https://github.com/Double-FW/Accessibility_Demographics). Preserve the authority, context and evidence limits required by each destination.
-
+Do not treat the former overview as one complete checklist or as evidence of accessibility, user outcomes, legal applicability or conformity.
