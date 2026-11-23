@@ -33,7 +33,7 @@ This dataset defines the outcomes an inclusive digital service should seek to de
 
 The dataset is designed for requirements, design, research, testing, procurement, release, monitoring, and AI-assisted governance. It supports services ranging from simple content journeys to specialist and highly interactive systems such as trading platforms, CAD tools, collaborative workspaces, games, and professional applications.
 
-It does not decide whether the European Accessibility Act applies and does not establish legal conformity. Those decisions belong to the [EAA Scope and Applicability Gate](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Scope_and_Applicability_Gate.md) and the [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Evidence_and_Conformity_Record_Model.md).
+It does not decide whether the European Accessibility Act applies and does not establish legal conformity. Those decisions belong to the [EAA Scope and Applicability Gate](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) and the [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md).
 
 ## Core proposition
 
@@ -681,19 +681,19 @@ An AI system using this dataset must:
 
 ## Sources and related material
 
+- [Double-FW Terminology and Principles: current status](https://github.com/Double-FW/Terminology-and-Principles/blob/main/START_HERE.md) — check adoption status and scope before applying shared terms.
 - [Web Content Accessibility Guidelines (WCAG) 2.2 — W3C Recommendation](https://www.w3.org/TR/WCAG22/)
 - [Directive (EU) 2019/882 — official text](https://eur-lex.europa.eu/eli/dir/2019/882/oj)
 - [European Commission — European Accessibility Act overview](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en)
-- [Inclusive Design Thinking](Inclusive_Design_Thinking.md)
-- [Inclusive Design Practice](Inclusive_Design_Practice.md)
+- [Inclusive Design Practice](Inclusive_Design_Practice.md) — the retained local practitioner guide; the near-duplicate Thinking file routes here.
 - [Codesign](Codesign.md)
 - [Multimodal UX Design](Multimodal_UX_Design.md)
 - [Cognitive Design Principles](Cognitive%20Design%20Principles.md)
-- [Accessible Games and Other Dynamic Content](Accessible_Games_and_other_Dynamic_Content.md)
+- [Accessible Games and Other Dynamic Content](https://github.com/Double-FW/Inclusive-Games-Design/blob/main/Accessible%20Games%20and%20other%20Dynamic%20Content.md)
 - [The WCAG POUR Principles Reframed Through Emotional Outcomes for Branding Systems](The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md)
 - [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md)
-- [EAA Scope and Applicability Gate](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Scope_and_Applicability_Gate.md)
-- [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Evidence_and_Conformity_Record_Model.md)
+- [EAA Scope and Applicability Gate](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md)
+- [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md)
 
 ## Replacement note
 
