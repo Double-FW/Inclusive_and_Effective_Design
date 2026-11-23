@@ -7,7 +7,7 @@
 | Product-design principles, practical UX, and research methods | [Inclusive Product Design Principles: UX Practice](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md) |
 | Programme strategy, resourcing, delivery, governance and improvement | [Accessibility Programme Runbooks: shared programme cycle](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/programme-cycle.md) |
 | Design systems, branding systems and QA coordination | [Accessibility Programme Runbooks: systems and assurance](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/design-and-brand-systems.md) |
-| Brand values, functional and emotional experience, research | [POURS for branding systems and customer experience](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX) |
+| Brand values, functional and emotional experience, research | [POURS for branding systems and customer experience: brand-values research](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/Brand_Values_and_Inclusive_Experience_Research.md) |
 | Audience segmentation, demographics, customer value and retention | [Accessibility Demographics](https://github.com/Double-FW/Accessibility_Demographics) |
 | Co-design method pending its integration into Principles | [Codesign.md](Codesign.md) |
 
