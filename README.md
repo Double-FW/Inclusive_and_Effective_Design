@@ -16,6 +16,19 @@ The [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcom
 
 The dataset applies to ordinary and specialist digital services, including trading, CAD, collaborative, creative and other complex platforms. Complexity may be necessary, but it must be evaluated for learnability, control, interoperability, recovery and equitable outcomes.
 
+## Specialist repositories and migrated guidance
+
+Detailed media and multimodal guidance now has a canonical home in the specialist repositories below. The original paths are retained as migration notices so existing links continue to lead people and agents to the right material.
+
+| Existing source path | Canonical guidance |
+|---|---|
+| `Connected_TV.md` | [Connected TV — Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Connected_TV.md) |
+| `Accessible_Interactive_Media_Control.md` | [Accessible Interactive Media Control](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Accessible_Interactive_Media_Control.md) and [Physical and Connected Product Control](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Physical_and_Connected_Product_Control.md) |
+| `Multimodal_UX_Design.md` | [Inclusive Multimodal UX Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Design.md), its [maturity model](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_Design_Maturity_Model.md), and [agent prompt guide](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Agent_Prompt_Guide.md) |
+| `Structural Accessibility and Semantic Design for Multi-Modal Experiences.md` | [Structural Accessibility and Semantic Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Structural%20Accessibility%20and%20Semantic%20Design%20for%20Multi-Modal%20Experiences.md) |
+
+Use the canonical destination for current retrieval and updates. The links above separate general multimodal design, semantic structure, media interfaces, and connected product control so that guidance is not maintained in competing copies.
+
 ## EAA relationship
 
 This repository does not determine whether the European Accessibility Act applies or approve legal conformity.
@@ -45,8 +58,9 @@ An AI or autonomous system must:
 5. retain negative, minority and contradictory evidence;
 6. avoid presenting synthetic personas or simulations as research with disabled people;
 7. avoid converting a Layer 2 finding automatically into an EAA legal conclusion;
-8. avoid using satisfaction to conceal exclusion, failure, excessive effort or lack of choice; and
-9. route legal applicability and claim decisions to Layers 1 and 3.
+8. avoid using satisfaction to conceal exclusion, failure, excessive effort or lack of choice;
+9. route legal applicability and claim decisions to Layers 1 and 3; and
+10. use the canonical specialist repository in the table above for migrated media, multimodal, and semantic-structure guidance rather than retrieving the retained migration notices as substantive content.
 
 ## Evidence and flexibility
 
