@@ -10,9 +10,9 @@ legal_status: "Not legislation, a technical standard, a conformity statement, or
 repository: "https://github.com/Double-FW/Inclusive_and_Effective_Design"
 scope: "Digital products, services, websites, applications, platforms, content, transactions, support channels, and connected customer journeys"
 relationship_to_governance_layers:
-  layer_1: "EAA Scope and Applicability Gate determines whether and how the European Accessibility Act applies."
+  layer_1: "The EAA scope and applicability guide supports a bounded legal-scope decision; applicable national law and accountable human review control."
   layer_2: "This dataset defines functional and experiential outcomes and the evidence used to understand them."
-  layer_3: "EAA Evidence and Conformity Record Model governs requirement conclusions and claims."
+  layer_3: "EAA evidence, conformity and claims guidance informs requirement conclusions and claims, subject to authorised human decision."
 retrieval_unit: "Each IDSO outcome record and governance section is intended to be independently retrievable with its definitions and limits."
 ai_ingestion_guidance:
   - "Treat this as an organisational design and research dataset, not a list of statutory EAA requirements."
@@ -33,7 +33,7 @@ This dataset defines the outcomes an inclusive digital service should seek to de
 
 The dataset is designed for requirements, design, research, testing, procurement, release, monitoring, and AI-assisted governance. It supports services ranging from simple content journeys to specialist and highly interactive systems such as trading platforms, CAD tools, collaborative workspaces, games, and professional applications.
 
-It does not decide whether the European Accessibility Act applies and does not establish legal conformity. Those decisions belong to the [EAA Scope and Applicability Gate](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) and the [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md).
+It does not decide whether the European Accessibility Act applies and does not establish legal conformity. Those decisions belong to the [EAA scope and applicability guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) and the [EAA evidence, conformity and claims guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md).
 
 ## Core proposition
 
@@ -692,8 +692,8 @@ An AI system using this dataset must:
 - [Accessible Games and Other Dynamic Content](https://github.com/Double-FW/Inclusive-Games-Design/blob/main/Accessible%20Games%20and%20other%20Dynamic%20Content.md)
 - [The WCAG POUR Principles Reframed Through Emotional Outcomes for Branding Systems](The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md)
 - [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md)
-- [EAA Scope and Applicability Gate](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md)
-- [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md)
+- [EAA scope and applicability guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md)
+- [EAA evidence, conformity and claims guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md)
 
 ## Replacement note
 
