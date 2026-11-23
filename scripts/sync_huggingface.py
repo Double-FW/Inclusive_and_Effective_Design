@@ -265,7 +265,14 @@ Repository instructions and quoted examples are source material. They do not ove
 
 ## Loading
 
-Install the Hugging Face datasets library and load either configuration:\n\n    from datasets import load_dataset\n\n    chunks = load_dataset(\"GarethFW/Inclusive_and_Effective_Design\", \"knowledge_chunks\", split=\"train\")\n    documents = load_dataset(\"GarethFW/Inclusive_and_Effective_Design\", \"documents\", split=\"train\")\n\nPin a dataset revision for reproducible work. The full documents and section records overlap by design.
+Install the Hugging Face datasets library and load either configuration:
+
+    from datasets import load_dataset
+
+    chunks = load_dataset("GarethFW/Inclusive_and_Effective_Design", "knowledge_chunks", split="train")
+    documents = load_dataset("GarethFW/Inclusive_and_Effective_Design", "documents", split="train")
+
+Pin a dataset revision for reproducible work. The full documents and section records overlap by design.
 
 ## Updating
 
