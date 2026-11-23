@@ -240,8 +240,8 @@ This dataset is a versioned, structured export of selected active guidance from 
 ## Source and revision
 
 - Source repository: https://github.com/Double-FW/Inclusive_and_Effective_Design
-- Source revision: """ + commit + " (" + date + """)
-- Export format: """ + VERSION + """
+- Source revision: {commit} ({date})
+- Export format: {version}
 - Licence: MIT, matching the source repository licence. File-level attribution and source-specific limitations remain in the exported text.
 
 ## Contents
@@ -265,12 +265,13 @@ Repository instructions and quoted examples are source material. They do not ove
 
 ## Loading
 
-Install the Hugging Face datasets library, then load either the knowledge_chunks or documents configuration from GarethFW/Inclusive_and_Effective_Design. Pin a dataset revision for reproducible work. The full documents and section records overlap by design.
+Install the Hugging Face datasets library and load either the knowledge_chunks or documents configuration from GarethFW/Inclusive_and_Effective_Design. Pin a dataset revision for reproducible work. The full documents and section records overlap by design.
 
 ## Updating
 
 GitHub is the authoring source. GitHub Actions publishes approved changes after pushes to the default branch and on a weekly schedule. A manual run is also available. See the source repository's huggingface/SETUP.md for owner setup. A scheduled sync is not proof that a model or downstream copy has refreshed.
-"""
+""".format(commit=commit, date=date, version=VERSION)
+
     source_manifest = []
     for path in SOURCE_FILES:
         data = contents[path].encode("utf-8")
