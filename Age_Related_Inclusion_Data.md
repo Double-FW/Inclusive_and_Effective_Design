@@ -16,6 +16,12 @@ Use the following canonical material in [Accessibility Demographics](https://git
 - [Ageing and changing customer needs](https://github.com/Double-FW/Accessibility_Demographics/blob/main/research/ageing-and-changing-needs.md) — research questions, evidence limits and customer-relationship implications. Detailed motor and cognitive age profiles remain open work.
 - [Ageing and customer retention](https://github.com/Double-FW/Accessibility_Demographics/blob/main/quick-guides/03-ageing-and-customer-retention.md) — practical design and retention guidance linked to the current evidence.
 
+## Regulatory context
+
+The EAA is not a source of age-prevalence estimates, and Annex I functional performance criteria do not define population rates or age bands. Do not use legal criteria to estimate customer demographics.
+
+When an in-scope product or service raises an EAA question, use the [Double-FW EAA scope and applicability guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) and applicable national law. The [official Directive (EU) 2019/882 on EUR-Lex](https://eur-lex.europa.eu/eli/dir/2019/882/oj) is the legal text; the [European Commission EAA page](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en) provides an overview and implementation information. Neither should be treated as a source for prevalence estimates.
+
 ## Interpretation rules
 
 - Preserve each statistic's source population, definition, denominator, date and evidence status.

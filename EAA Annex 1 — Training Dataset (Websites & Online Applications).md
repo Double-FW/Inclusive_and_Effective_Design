@@ -1,49 +1,34 @@
 ---
-title: "EAA Annex 1 — Training Dataset (Websites & Online Applications)"
+title: "EAA Annex I training dataset — superseded route"
 status: "Superseded"
 superseded_on: "2026-09-20"
+last_reviewed: "2026-11-23"
 superseded_by: "Inclusive_Digital_Service_Outcome_Dataset.md"
-retrieval_priority: "Do not use for current requirements, outcome selection, legal interpretation, testing, conformity decisions, or claims"
-legal_status: "Historical repository redirect; not current guidance"
+retrieval_priority: "Navigation only; not a source for current requirements, legal interpretation, assessment, conformity decisions, or claims"
+legal_status: "Historical redirect; not current guidance"
 ai_ingestion_guidance:
-  - "Do not retrieve the former contents as an active EAA requirement dataset."
-  - "Retrieve Inclusive_Digital_Service_Outcome_Dataset.md for inclusive functional and experiential outcomes."
-  - "Retrieve the current EAA scope and applicability guidance before identifying EAA legal requirements."
-  - "Retrieve current EAA evidence, conformity and claims guidance before reaching a requirement conclusion or making a claim."
+  - "Do not retrieve former content as an active legal or outcome dataset."
+  - "Use the current Double-FW Inclusive Digital Service Outcome Dataset for Layer 2 outcome definitions."
+  - "Use the EAA Compliance Approach and applicable national law for legal scope, requirements, evidence and conformity routes."
+  - "For the legal text, use Directive (EU) 2019/882 on EUR-Lex."
 ---
 
-# Superseded: EAA Annex 1 Training Dataset
+# Superseded EAA Annex I dataset
 
-This file is retained as a stable redirect so existing links do not silently break. Its former contents are preserved in repository history but must not be used as current guidance or training data.
+This file is retained at its original path so existing links resolve. Its former dataset is not active guidance and must not be used to extract EAA requirements, select Double-FW outcomes, plan tests, make conformity decisions, or prepare public claims. The former content conflated legal requirements, standards concepts and inclusive-design outcomes.
 
-The earlier document combined:
+## Current Double-FW guidance
 
-- legal requirements from different parts of Annex I;
-- WCAG and POUR concepts;
-- inclusive-design recommendations;
-- user-group and functional-performance lenses; and
-- customer satisfaction and service outcomes.
+- [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) — the canonical Double-FW Layer 2 framework for functional, task, service-quality and experiential outcomes. It is not legislation, a technical standard or a conformity statement.
+- [EAA scope and applicability](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) — scope, jurisdiction and applicability route.
+- [EAA requirements and assessment](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/02-requirements-and-assessment.md) — clause-level requirements, technical baselines, mapping and assessment.
+- [EAA evidence, conformity and claims](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md) — evidence chains, authorised decisions and bounded claims.
 
-That combination could cause an assessor or AI system to present every outcome as a direct European Accessibility Act requirement, apply product requirements to services, or treat satisfaction as proof of accessibility or conformity.
+## Official external EAA sources
 
-## Current canonical route
+- [Directive (EU) 2019/882 on EUR-Lex](https://eur-lex.europa.eu/eli/dir/2019/882/oj) — official legal text, including scope and Annex I requirements.
+- [European Commission: European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en) — Commission overview and implementation information. Use national transposing law and competent-authority guidance for the relevant jurisdiction; this overview does not replace them.
 
-1. Use the [EAA scope and applicability guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) to determine legal scope, the applicable national law, Annex I route and any separately recorded legal limitations.
-2. Use the [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) to define functional, task, equitable and experiential outcomes.
-3. Use the [EAA evidence, conformity and claims guidance](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md) to reach controlled requirement conclusions and govern claims.
-4. Use the [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md) for requirements, tests, executions, issues, exceptions, baseline departures and release evidence.
+## Retrieval rule
 
-## Machine rule
-
-```yaml
-canonical: false
-active_for_retrieval: false
-replacement_file: "Inclusive_Digital_Service_Outcome_Dataset.md"
-prohibited_uses:
-  - "legal scope determination"
-  - "EAA requirement extraction"
-  - "inclusive-outcome selection"
-  - "standards conformance conclusion"
-  - "EAA conformity conclusion"
-  - "public compliance claim"
-```
+Treat this page as a redirect only. Keep legal applicability and conformity decisions distinct from Double-FW outcome research. Do not use the superseded dataset as current training data.

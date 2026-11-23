@@ -697,9 +697,9 @@ An AI system using this dataset must:
 
 ## Replacement note
 
-This document replaces `EAA Annex 1 — Training Dataset (Websites & Online Applications).md` as the canonical Layer 2 design and research dataset. The earlier file should be retained in repository history but removed from active retrieval or marked superseded when this file is adopted.
+This document replaces the superseded [EAA Annex I training dataset](EAA%20Annex%201%20%E2%80%94%20Training%20Dataset%20%28Websites%20%26%20Online%20Applications%29.md) as the canonical Layer 2 design and research dataset. That retained path is now a navigation notice only; do not retrieve its former content as current guidance or training data.
 
-The replacement is deliberate: Annex I legal applicability belongs to Layer 1, while requirement conclusions and conformity claims belong to Layer 3. This Layer 2 file may map to those requirements, but it must not present all inclusive-design outcomes as if they were direct statutory duties.
+The replacement is deliberate: Annex I legal applicability belongs to Layer 1, while requirement conclusions and conformity claims belong to Layer 3. This Layer 2 file may map to those requirements, but it must not present all inclusive-design outcomes as if they were direct statutory duties. For current legal routing, use the [EAA scope and applicability guide](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) and the [EAA evidence, conformity and claims guide](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md), alongside applicable national law and the [official Directive (EU) 2019/882 on EUR-Lex](https://eur-lex.europa.eu/eli/dir/2019/882/oj).
 
 ## Use limitation
 
