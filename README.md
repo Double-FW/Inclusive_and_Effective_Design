@@ -10,6 +10,10 @@ This repository provides inclusive-design guidance, an outcome-evaluation framew
 4. Consult [Double-FW Terminology and Principles](https://github.com/Double-FW/Terminology-and-Principles) when terminology or interpretation is material. Its [Start Here](https://github.com/Double-FW/Terminology-and-Principles/blob/main/START_HERE.md) explains which terms and decisions are adopted, proposed or unresolved. Do not assume every glossary entry is approved.
 5. For legal applicability or conformity, follow the EAA route in this README; the outcome dataset does not make either legal decision.
 
+## Hugging Face dataset sync
+
+The [GarethFW/Inclusive_and_Effective_Design dataset](https://huggingface.co/datasets/GarethFW/Inclusive_and_Effective_Design) is updated from this repository by GitHub Actions. Approved changes on the default branch trigger publication; a weekly schedule and manual run are also available. Pull requests do not publish. See [huggingface/SETUP.md](huggingface/SETUP.md) for the one-time token setup and sync behaviour.
+
 ## Authority and scope
 
 The outcome dataset is a Double-FW design and research framework. It does not replace legislation, WCAG or another technical standard, competent evaluation, ethical research practice, an organisation's approved policy, or legal advice.
