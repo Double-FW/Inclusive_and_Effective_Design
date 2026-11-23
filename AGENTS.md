@@ -44,6 +44,7 @@ That repository records different approval states. Do not describe the complete 
 - do not infer diagnosis, identity, incapacity, preference or emotion from behaviour;
 - use plain British English while respecting people's chosen identity language;
 - do not claim that WCAG has a fifth principle or redefine its four POUR principles through an internal emotional lens;
+- do not claim that WCAG is a guarantee that disabled users will have a comparably satisfactory customer experience;
 - treat “Feeling Seen”, “Feeling Capable”, “Feeling Confident”, “Feeling Safe” and “Feeling Valued” as proposed/research lenses, not guaranteed participant emotions or formal conformance criteria;
 - a report of feeling safe does not establish security, and confidence does not establish comprehension or task success.
 
