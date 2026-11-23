@@ -18,7 +18,7 @@ The dataset applies to ordinary and specialist digital services, including tradi
 
 ## Specialist repositories and migrated guidance
 
-Detailed media and multimodal guidance now has a canonical home in the specialist repositories below. The original paths are retained as migration notices so existing links continue to lead people and agents to the right material.
+Detailed media, multimodal and cognitive guidance now has a canonical home in the specialist repositories below. The original paths are retained as migration notices so existing links continue to lead people and agents to the right material.
 
 | Existing source path | Canonical guidance |
 |---|---|
@@ -26,6 +26,7 @@ Detailed media and multimodal guidance now has a canonical home in the specialis
 | `Accessible_Interactive_Media_Control.md` | [Accessible Interactive Media Control](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Accessible_Interactive_Media_Control.md) and [Physical and Connected Product Control](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Physical_and_Connected_Product_Control.md) |
 | `Multimodal_UX_Design.md` | [Inclusive Multimodal UX Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Design.md), its [maturity model](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_Design_Maturity_Model.md), and [agent prompt guide](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Agent_Prompt_Guide.md) |
 | `Structural Accessibility and Semantic Design for Multi-Modal Experiences.md` | [Structural Accessibility and Semantic Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Structural%20Accessibility%20and%20Semantic%20Design%20for%20Multi-Modal%20Experiences.md) |
+| `Cognitive Design Principles.md` | [10 Cognitive Design Principles](https://github.com/Double-FW/Cognitive-UX-Design/blob/main/Cognitive%20Design%20Principles.md), with CP-01–CP-10, current evidence status and QA relationships |
 
 Use the canonical destination for current retrieval and updates. The links above separate general multimodal design, semantic structure, media interfaces, and connected product control so that guidance is not maintained in competing copies.
 
