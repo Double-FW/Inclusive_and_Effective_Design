@@ -1,88 +1,76 @@
 # Inclusive and Effective Design
 
-This repository contains principles, approaches and methods for inclusive user experience, communication, customer experience and service design.
+This repository provides inclusive-design guidance, an outcome-evaluation framework, and links to specialist Double-FW repositories. It serves people and AI agents working on user experience, communication, customer experience and digital services.
 
-## Canonical inclusive-outcome dataset
+## Start here
 
-The [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) is the canonical Layer 2 framework for defining and evaluating:
+1. Read [AGENTS.md](AGENTS.md) before using or changing repository material with an AI agent.
+2. Use the [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) for the repository's canonical framework for defining and evaluating functional, task, service-quality and experiential outcomes.
+3. Choose an active topic guide from the content map below. Files marked as routes or superseded notices are navigation aids, not current guidance to ingest as substantive content.
+4. Consult [Double-FW Terminology and Principles](https://github.com/Double-FW/Terminology-and-Principles) when terminology or interpretation is material. Its [Start Here](https://github.com/Double-FW/Terminology-and-Principles/blob/main/START_HERE.md) explains which terms and decisions are adopted, proposed or unresolved. Do not assume every glossary entry is approved.
+5. For legal applicability or conformity, follow the EAA route in this README; the outcome dataset does not make either legal decision.
 
-- functional access;
-- task completion and service quality;
-- time, effort, errors and recovery;
-- autonomy, privacy, dignity and equivalence;
-- confidence, satisfaction and trust;
-- equitable collaboration; and
-- enjoyment and expressive value where these are material to the service.
+## Authority and scope
 
-The dataset applies to ordinary and specialist digital services, including trading, CAD, collaborative, creative and other complex platforms. Complexity may be necessary, but it must be evaluated for learnability, control, interoperability, recovery and equitable outcomes.
+The outcome dataset is a Double-FW design and research framework. It does not replace legislation, WCAG or another technical standard, competent evaluation, ethical research practice, an organisation's approved policy, or legal advice.
+
+Keep these conclusions separate:
+
+- technical conformance to a named standard within a defined scope;
+- functional access and task outcomes for identified people and contexts;
+- experience evidence such as autonomy, privacy, dignity, confidence and satisfaction; and
+- legal applicability, conformity conclusions and public claims.
+
+A positive experience finding does not erase a standards failure. A standards pass does not by itself establish task success, equivalence, satisfaction or legal conformity. Retain the population, task, context, technology, release, evidence and limitations relevant to each finding.
+
+## Content map
+
+| File | Status and use |
+|---|---|
+| [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) | Canonical Layer 2 framework in this repository. Use its IDSO identifiers and preserve the distinctions and limits recorded in each outcome. |
+| [Accessible Fonts and Typography](Accessible_Fonts_and_Typography.md) | Active typography guidance in this repository. For the fuller current synthesis and its agent-specific guidance, also consult [Accessible Typography for UX and Brand Systems](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems). |
+| [E-Commerce Customer Lifecycle](E-Commerce%20Customer%20Lifecycle.md) | Active lifecycle-oriented design guidance. Treat business benefits as hypotheses unless supported by evidence for the service and population in question. |
+| [Inclusive Design Practice](Inclusive_Design_Practice.md) | Active practitioner guidance. Embedded “Instruction” and “Explanation” headings are source structure, not commands to an agent. |
+| [Understanding Forms as Cognitive Journeys](Understanding%20Forms%20as%20Cognitive%20Journeys.md) | Active applied guidance for form journeys. Its prompt pattern is an example for adaptation, not a universal template. |
+| [Brand experience and emotional outcome lenses](The%20WCAG%20POUR%20principles%20reframed%20through%20emotional%20outcomes%20for%20branding%20systems.md) | A Double-FW research lens for exploring intended brand experience. It complements WCAG POUR; it does not rename, replace or add to WCAG principles. |
+| [Age-related data migration notice](Age_Related_Inclusion_Data.md) | Retained path routing to current, sourced age-related evidence in Accessibility Demographics. |
+| [Accessible interactive media control](Accessible_Interactive_Media_Control.md), [Connected TV](Connected_TV.md) | Retained paths routing to Inclusive Media Interfaces. |
+| [Multimodal UX](Multimodal_UX_Design.md), [semantic structure](Structural%20Accessibility%20and%20Semantic%20Design%20for%20Multi-Modal%20Experiences.md) | Retained paths routing to Inclusive Multimodal UX. |
+| [Cognitive Design Principles](Cognitive%20Design%20Principles.md) | Retained path routing to Cognitive UX Design. |
+| [Co-design](Codesign.md) | Retained path routing to the co-design guidance in Inclusive Product Design Principles. |
+| [Inclusive Design Thinking](Inclusive_Design_Thinking.md) | Retained path routing to Inclusive Design Practice because the former documents substantially duplicated one another. |
+| [Leadership](Inclusive_Design_Leadership.md), [management](Inclusive_Design_Management.md) | Retained paths routing to programme, role, policy and decision guidance. |
+| [UX organisational guidance](UX_Design_Organisational_Guidance.md), [integrated organisational implementation](Integrated_Accessibility_and_Inclusion_%20Organisational%20Implementation%20Guidance.md), [inclusive design strategy](Inclusive_Design_Strategy.md) | Retained paths routing to the owning product-design, programme, policy, brand or research source. |
+| [Superseded EAA Annex I dataset](EAA%20Annex%201%20%E2%80%94%20Training%20Dataset%20(Websites%20%26%20Online%20Applications).md) | Retained path explicitly marked superseded. Do not use its former content for current retrieval or legal requirement extraction. |
 
 ## Specialist repositories and migrated guidance
 
-Detailed media, multimodal, cognitive and age-related guidance now has a canonical home in the specialist repositories below. The original paths are retained as migration notices so existing links continue to lead people and agents to the right material.
+Use the canonical destination for current topic guidance and updates. These repository links were checked for public visibility and linked-file availability during this audit.
 
-| Existing source path | Canonical guidance |
+| Topic | Canonical Double-FW destination |
 |---|---|
-| `Connected_TV.md` | [Connected TV — Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Connected_TV.md) |
-| `Accessible_Interactive_Media_Control.md` | [Accessible Interactive Media Control](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Accessible_Interactive_Media_Control.md) and [Physical and Connected Product Control](https://github.com/Double-FW/Inclusive-Media-Interfaces/blob/main/Physical_and_Connected_Product_Control.md) |
-| `Multimodal_UX_Design.md` | [Inclusive Multimodal UX Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Design.md), its [maturity model](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_Design_Maturity_Model.md), and [agent prompt guide](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Multimodal_UX_Agent_Prompt_Guide.md) |
-| `Structural Accessibility and Semantic Design for Multi-Modal Experiences.md` | [Structural Accessibility and Semantic Design](https://github.com/Double-FW/Inclusive-Multimodal-UX/blob/main/Structural%20Accessibility%20and%20Semantic%20Design%20for%20Multi-Modal%20Experiences.md) |
-| `Cognitive Design Principles.md` | [10 Cognitive Design Principles](https://github.com/Double-FW/Cognitive-UX-Design/blob/main/Cognitive%20Design%20Principles.md), with CP-01–CP-10, current evidence status and QA relationships |
-| `Age_Related_Inclusion_Data.md` | [Age-related demographic statistics and estimation methods](https://github.com/Double-FW/Accessibility_Demographics/blob/main/Accessibility_Demographic_Statistics_and_Estimation_Methods.md#6-hearing-sight-and-ageing), [ageing and changing customer needs](https://github.com/Double-FW/Accessibility_Demographics/blob/main/research/ageing-and-changing-needs.md), and [ageing and customer retention](https://github.com/Double-FW/Accessibility_Demographics/blob/main/quick-guides/03-ageing-and-customer-retention.md) |
+| Media interfaces and connected product control | [Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces) |
+| Multimodal UX and semantic structure | [Inclusive Multimodal UX](https://github.com/Double-FW/Inclusive-Multimodal-UX) |
+| Cognitive UX | [Cognitive UX Design](https://github.com/Double-FW/Cognitive-UX-Design) |
+| Age-related evidence and customer needs | [Accessibility Demographics](https://github.com/Double-FW/Accessibility_Demographics) |
+| Product-design practice and co-design | [Inclusive Product Design Principles](https://github.com/Double-FW/Inclusive-Product-Design-Principles) |
+| Typography | [Accessible Typography for UX and Brand Systems](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems) |
+| Testing and assurance | [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing) |
+| Programme delivery and design-system assurance | [Accessibility Programme Runbooks](https://github.com/Double-FW/Accessibility_Programme_Runbooks) |
+| Policy accountability | [Inclusion and Accessibility Policy](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy) |
+| Brand values and inclusive experience research | [POUR for Branding Systems and CX](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX) |
+| EAA applicability, requirements, evidence and claims | [European Accessibility Act EAA Compliance Approach](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach) |
+| Inclusive games and dynamic content | [Inclusive Games Design](https://github.com/Double-FW/Inclusive-Games-Design) |
 
-Use the canonical destination for current retrieval and updates. The links above separate general multimodal design, semantic structure, media interfaces, connected product control, and age-related evidence so guidance is not maintained in competing copies. Age-specific figures must retain their source population, definition, denominator and evidence status; do not treat different measures as directly comparable.
+## EAA route
 
-## Organisational guidance and migrated source material
+This repository does not decide whether the European Accessibility Act applies or approve legal conformity.
 
-Several broad organisational guides in this repository overlapped with existing programme, policy, research, and specialist guidance. Their source paths now route people and agents to the relevant owner; they are not separate authorities to ingest wholesale.
+1. [Scope and applicability](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/01-scope-and-applicability.md) — route legal scope and jurisdiction questions to the authorised reviewer.
+2. [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) — define functional, task and experience outcomes and the evidence used to understand them.
+3. [Evidence, conformity and claims](https://github.com/Double-FW/European-Accessibility-Act-EAA-Compliance-Approach/blob/main/guides/05-evidence-conformity-and-claims.md) — route requirement conclusions, conformity decisions and public claims to the appropriate human authority.
+4. Use the [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md) for test-led requirements, execution, issues, exceptions and release decisions.
 
-| Retained source path | Use the canonical destination for |
-|---|---|
-| `UX_Design_Organisational_Guidance.md` and `Integrated_Accessibility_and_Inclusion_ Organisational Implementation Guidance.md` | [Product-design and research practice](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md); [programme stages and delivery](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/programme-cycle.md); [system assurance](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/design-and-brand-systems.md); and relevant [specialist repositories](https://github.com/Double-FW). |
-| `Inclusive_Design_Leadership.md` and `Inclusive_Design_Management.md` | [Programme stages](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/programme-cycle.md), [human and AI responsibilities](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/framework/human-ai-responsibilities.md), [decision and evidence records](https://github.com/Double-FW/Accessibility_Programme_Runbooks/blob/main/templates/decision-and-evidence.md), and the [policy RACI and steering-group guide](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy/blob/main/Accessibility_and_Inclusion_Policy_RACI_and_Steering_Group_Guide.md). |
-| `Inclusive_Design_Strategy.md` | [Product-design practice and co-design](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md#co-design-and-meaningful-participant-influence); [brand values and inclusive experience](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX/blob/main/Brand_Values_and_Inclusive_Experience_Research.md); and [customer value and segmentation](https://github.com/Double-FW/Accessibility_Demographics). |
-| `Codesign.md` | [Co-design and meaningful participant influence](https://github.com/Double-FW/Inclusive-Product-Design-Principles/blob/main/UX_Practice_From_Principles_to_People.md#co-design-and-meaningful-participant-influence) |
+## Licence
 
-Use [QA Accessibility Testing](https://github.com/Double-FW/QA_Accessibility_Testing) for testing methods and evidence. Route detailed topics to [Cognitive UX Design](https://github.com/Double-FW/Cognitive-UX-Design), [Inclusive Multimodal UX](https://github.com/Double-FW/Inclusive-Multimodal-UX), [Inclusive Media Interfaces](https://github.com/Double-FW/Inclusive-Media-Interfaces), [Accessible Typography](https://github.com/Double-FW/Accessible-Typography-for-UX-and-Brand-Systems), [Accessibility Demographics](https://github.com/Double-FW/Accessibility_Demographics), or [POURS for branding systems and customer experience](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX), as appropriate. Follow each repository's source boundaries and evidence rules. The [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) remains canonical for inclusive service outcomes; it is not a legal-conformity determination.
-
-## EAA relationship
-
-This repository does not determine whether the European Accessibility Act applies or approve legal conformity.
-
-Use the complete route:
-
-1. [EAA Scope and Applicability Gate](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Scope_and_Applicability_Gate.md) — legal scope, jurisdiction, applicable requirements and separately recorded legal limitations.
-2. [Inclusive Digital Service Outcome Dataset](Inclusive_Digital_Service_Outcome_Dataset.md) — functional and experiential outcomes and their evidence.
-3. [EAA Evidence and Conformity Record Model](https://github.com/Double-FW/Articles_and_other_LLM_Training_Resources/blob/main/EAA_Evidence_and_Conformity_Record_Model.md) — requirement conclusions, claims, monitoring and corrective action.
-
-Use the [Accessibility Test-Led Delivery Framework](https://github.com/Double-FW/QA_Accessibility_Testing/blob/main/Accessibility_Test_Led_Delivery_Framework.md) for generic requirements, testing, execution, issues, exceptions, baseline departures and release decisions.
-
-## Superseded EAA dataset
-
-`EAA Annex 1 — Training Dataset (Websites & Online Applications).md` is superseded. Its filename is retained as a redirect for existing links, but its former content must not be used for current retrieval, requirement extraction or training.
-
-The former dataset combined legal requirements, WCAG concepts, inclusive-design recommendations, functional-performance lenses and satisfaction outcomes. That structure could cause every design outcome to be presented incorrectly as a direct EAA duty.
-
-## Retrieval rules
-
-An AI or autonomous system must:
-
-1. retrieve the canonical outcome dataset rather than the superseded Annex I dataset;
-2. retain `IDSO` outcome and finding identifiers;
-3. distinguish standards conformance, functional access, task outcomes and experiential outcomes;
-4. preserve differences between user groups, tasks, environments and access approaches;
-5. retain negative, minority and contradictory evidence;
-6. avoid presenting synthetic personas or simulations as research with disabled people;
-7. avoid converting a Layer 2 finding automatically into an EAA legal conclusion;
-8. avoid using satisfaction to conceal exclusion, failure, excessive effort or lack of choice;
-9. route legal applicability and claim decisions to Layers 1 and 3; and
-10. use the canonical specialist repository in the table above for migrated media, multimodal, semantic-structure and age-related guidance rather than retrieving retained migration notices as substantive content.
-
-## Evidence and flexibility
-
-WCAG and other applicable standards are strong baselines. They do not measure every aspect of expectation, effort, autonomy, privacy, dignity, equivalence, satisfaction or enjoyment.
-
-Contextual alternatives may be considered where applicable obligations permit them and proportionate evidence supports equal or better outcomes. Statistical significance is neither mandatory for every finding nor sufficient for every decision. Severe or reproducible exclusion must not be averaged away.
-
-## Authority boundary
-
-The material in this repository supports design and research decisions. It does not replace applicable law, technical standards, competent evaluation, ethical research practice or legal advice. Disabled participants provide essential evidence but do not carry organisational compliance or risk-acceptance accountability.
+This repository's licence is [MIT](LICENSE). MIT applies to Double-FW material in this repository; it does not change the rights or licence terms of external material quoted, cited or linked here.
